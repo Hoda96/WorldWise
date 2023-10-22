@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Stockholm",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2023-10-10T16:36:54.929Z",
+      "notes": ":)",
+      "position": {
+        "lat": "59.2889830861767",
+        "lng": "17.930234268479932"
+      },
+      "id": 73930392
+    },
+    {
+      "cityName": "Baku",
+      "country": "Azerbaijan",
+      "emoji": "🇦🇿",
+      "date": "2023-10-20T15:33:05.079Z",
+      "notes": "",
+      "position": {
+        "lat": "40.487608935540244",
+        "lng": "50.28185599881774"
+      },
+      "id": 73930393
+    }
+  ]
+}
